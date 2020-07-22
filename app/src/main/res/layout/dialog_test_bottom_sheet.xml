@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="@string/TestActivity_bottom_sheet_header"
+        android:textColor="@color/darkGreyBlue"
+        android:textSize="17sp" />
+
+    <Button
+        android:id="@+id/angerButton"
+        style="@style/SolidButton"
+        android:layout_marginTop="10sp"
+        android:text="@string/Emotion_anger" />
+
+    <Button
+        android:id="@+id/disgustButton"
+        style="@style/SolidButton"
+        android:layout_marginTop="20sp"
+        android:text="@string/Emotion_disgust" />
+
+    <Button
+        android:id="@+id/contemptButton"
+        style="@style/SolidButton"
+        android:layout_marginTop="20sp"
+        android:text="@string/Emotion_contempt" />
+
+    <Button
+        android:id="@+id/fearButton"
+        style="@style/SolidButton"
+        android:layout_marginTop="20sp"
+        android:text="@string/Emotion_fear" />
+
+    <Button
+        android:id="@+id/sadnessButton"
+        style="@style/SolidButton"
+        android:layout_marginTop="20sp"
+        android:text="@string/Emotion_sadness" />
+
+    <Button
+        android:id="@+id/surpriseButton"
+        style="@style/SolidButton"
+        android:layout_marginTop="20sp"
+        android:text="@string/Emotion_surprise" />
+
+    <Button
+        android:id="@+id/happinessButton"
+        style="@style/SolidButton"
+        android:layout_marginTop="20sp"
+        android:text="@string/Emotion_happiness" />
+</LinearLayout>

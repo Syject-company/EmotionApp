@@ -1,0 +1,212 @@
+<resources>
+    <string name="app_name" translatable="false">EQally</string>
+    <string name="SplashActivity_tab_emotions">Emotions &amp; Face</string>
+    <string name="SplashActivity_tab_test">Test &amp; Rank</string>
+    <string name="SplashActivity_tab_result">Your Results</string>
+
+    <string name="MoreActivity_therms">Terms &amp; Conditions</string>
+    <string name="MoreActivity_privacy_policy">Privacy Policy</string>
+    <string name="MoreActivity_about">About EQally</string>
+    <string name="MoreActivity_app_version" translatable="false">App Version</string>
+    <string name="MoreActivity_copyright" translatable="false">Copyright © 2020 Eqally</string>
+    <string name="MoreActivity_title">More</string>
+    <string name="MoreActivity_reset_data">Reset Data</string>
+    <string name="More_about">
+    &lt;h1>About EQally&lt;/h1>
+    &lt;p>We are the experts aiming to bring behavioral science, technology and fun together. EQally is the starting point to help people to expand and master communication tools nature and evolution provided us with.&lt;/p>
+    &lt;p>In the world of overflow of unreliable information, we guarantee that all we offer is based on time-proven scientific research.&lt;/p>
+    &lt;p>Our goal is to make science intelligible, easy to use through technology and to experience joyful learning. We aim to make this behavior knowledge to be globally available through our tools because the language of our emotional expressions is Universal.&lt;/p>
+    &lt;p>EQally helps everyone to develop emotional awareness in conversations and the ability to take another person\'s perspective and learn from them.&lt;/p>
+    </string>
+
+    <string name="SelectEmotionActivity_text_content_emotions">Which universal emotion do you want to learn more about?</string>
+
+    <string-array name="demo_test_description">
+        <item>13 sample images</item>
+        <item>7 universal emotions</item>
+    </string-array>
+
+    <string-array name="full_test_description">
+        <item>240 images</item>
+        <item>20 Random Questions</item>
+        <item>7 Universal Emotions</item>
+        <item>Get Ranked</item>
+        <item>Earn Achievements</item>
+    </string-array>
+
+    <string name="Test_Activity_take_test">Take a test</string>
+    <string name="Test_Activity_restore_purchases">Restore Purchases</string>
+    <string name="Test_Activity_demo_test_name">Demo</string>
+    <string name="Test_Activity_full_test_name">Full Face Test</string>
+    <string name="Test_Activity_profile_test_name">Profile Face Test</string>
+    <string name="TestActivity_repeat">Repeat</string>
+    <string name="TestActivity_answer">Answer</string>
+    <string name="TestActivity_i_m_ready">I\'m Ready</string>
+    <string name="TestActivity_bottom_sheet_header">Which emotion did you just see?</string>
+
+    <string name="Emotion_anger">Anger</string>
+    <string name="Emotion_anger_description">The function of anger is to boost one\'s ability to overcome obstacles on the way to the goal. It makes us look threatening, and prepare for the fight.</string>
+    <string name="Emotion_anger_trigger">Interference with a goal</string>
+    <string name="Emotion_anger_purpose">Stop interference, eliminate threat to the goal</string>
+    <string name="Emotion_anger_body_reaction">Blood rushes to upper part of the body. Face may get red. Shoulders open, making body visually bigger. Lean forward. Prolonged anger can cause <i>amygdala hijack</i> and also may be associated with increase of testosterone and decrease of cortisol levels.</string>
+    <string name="Emotion_anger_feel">Heat, pressure cooker</string>
+    <string name="Emotion_anger_sound">Edge, harsh, loud</string>
+    <string-array name="Emotion_anger_cards">
+        <item>Eyebrows pulled down and together</item>
+        <item>Upper lids pulled up, lower lids tighten and pulled up</item>
+        <item>Margin of the lips pulled in, sometimes lips tight</item>
+        <item>Chin boss up or thrust</item>
+    </string-array>
+
+    <string name="Emotion_disgust">Disgust</string>
+    <string name="Emotion_disgust_description">The most likely evolutionary function of disgust was to protect our ancestors from getting sick from the spoiled food and contact sick creatures.</string>
+    <string name="Emotion_disgust_trigger">Offensive</string>
+    <string name="Emotion_disgust_purpose">Get away from</string>
+    <string name="Emotion_disgust_body_reaction">Get back, turn away</string>
+    <string name="Emotion_disgust_feel">Revulsion, nausea</string>
+    <string name="Emotion_disgust_sound"><i>yuck</i> sound</string>
+    <string-array name="Emotion_disgust_cards">
+        <item>Eyebrows pulled down</item>
+        <item>Nose wrinkled</item>
+        <item>Upper lip pulled up</item>
+        <item>Lower lip loose</item>
+    </string-array>
+
+    <string name="Emotion_contempt">Contempt</string>
+    <string name="Emotion_contempt_description">It\'s easy to confuse the expression of contempt with a smile. But this asymmetric expression, when the lip corner is pulled up at one side only, has a totally different meaning. This emotion is only experienced concerning people or their actions. It\'s triggered by a feeling of being superior to someone.</string>
+    <string name="Emotion_contempt_trigger">Feeling of superiority</string>
+    <string name="Emotion_contempt_purpose">Assert own superiority</string>
+    <string name="Emotion_contempt_body_reaction">Look <i>down your nose</i></string>
+    <string name="Emotion_contempt_feel">Feels pleasant</string>
+    <string name="Emotion_contempt_sound">Smug sound</string>
+    <string-array name="Emotion_contempt_cards">
+        <item>Lip corner pulled up and to the back on one side (only unilateral expression)</item>
+        <item>Eyes neutral</item>
+    </string-array>
+
+    <string name="Emotion_fear">Fear</string>
+    <string name="Emotion_fear_description">Fear is dealing with a threat of harm. The universal theme of fear is loss of physical support or a threatening object entering into the visual field. Fear prepares us to take care of our being: to freeze and become motionless to avoid a dangerous step and/or become invisible for the potential source of danger or to flee away as fast as possible."</string>
+    <string name="Emotion_fear_trigger">Threat of harm</string>
+    <string name="Emotion_fear_purpose">Avoid or reduce harm</string>
+    <string name="Emotion_fear_body_reaction">Freeze or move away. Blood rushes down to the legs. Skin gets pale. Stress related hormones such as cortisol, adrenalin and osteocalcin get released.</string>
+    <string name="Emotion_fear_feel">Cold, constriction</string>
+    <string name="Emotion_fear_sound">Higher pitch</string>
+    <string-array name="Emotion_fear_cards">
+        <item>Eyebrows pulled up and together</item>
+        <item>Eyelids pulled up</item>
+        <item>Mouth stretched sideways</item>
+    </string-array>
+
+    <string name="Emotion_sadness">Sadness</string>
+    <string name="Emotion_sadness_description">The trigger for sadness is a loss, which is often irreversible. That makes sadness a long-lasting emotion that may go up till the levels of complete agony, then calm down to the levels of grief, and then rise again.</string>
+    <string name="Emotion_sadness_trigger">Loss of a valued person, object, or opportunity</string>
+    <string name="Emotion_sadness_purpose">Call for help</string>
+    <string name="Emotion_sadness_body_reaction">Loss of muscle tone, slack body. Prolonged sadness is associated with decrease of pleasure hormones serotonin and dopamine.</string>
+    <string name="Emotion_sadness_feel">Sore throat, aching and/or watery eyes</string>
+    <string name="Emotion_sadness_sound">Softer voice, sobbing</string>
+    <string-array name="Emotion_sadness_cards">
+        <item>Inner corner of eyebrows raised</item>
+        <item>Eyelids loose</item>
+        <item>Lip corners pulled down</item>
+    </string-array>
+
+    <string name="Emotion_surprise">Surprise</string>
+    <string name="Emotion_surprise_description">Surprise is the most rapid emotion that appears as a reaction to an unexpected event, and it lasts only for a second or two. Its purpose is to draw attention to what you have unexpectedly gotten exposed to, and to allow a quick estimation of its meaning. That is why genuine surprise so quickly fades out and switches to the next emotion that concludes the evaluation.</string>
+    <string name="Emotion_surprise_trigger">Sudden, unexpected movement</string>
+    <string name="Emotion_surprise_purpose">To focus your attention on the change in the environment</string>
+    <string name="Emotion_surprise_body_reaction">Move backwards. May be only a head or upper body move or even step away.</string>
+    <string name="Emotion_surprise_feel">Attentive, focused on new information</string>
+    <string name="Emotion_surprise_sound">Momentary intake of breath</string>
+    <string-array name="Emotion_surprise_cards">
+        <item>Entire eyebrow pulled up</item>
+        <item>Eyelids pulled up</item>
+        <item>Mouth hangs open</item>
+    </string-array>
+
+    <string name="Emotion_happiness">Happiness</string>
+    <string name="Emotion_happiness_description">Happiness is the most intuitive, but also the most sophisticated emotion. The universal trigger for it is pleasure, but what brings us that pleasure can vary and up till now is not very well understood.</string>
+    <string name="Emotion_happiness_trigger">Pleasure</string>
+    <string name="Emotion_happiness_purpose">Social signal of friendliness</string>
+    <string name="Emotion_happiness_body_reaction">Elevated. Depending on type of pleasure serotonin, endorphin, dopamine or oxytocin levels increase.</string>
+    <string name="Emotion_happiness_feel">Warmth</string>
+    <string name="Emotion_happiness_sound">Exhale, laughter</string>
+    <string-array name="Emotion_happiness_cards">
+        <item>Outer eyes tighten</item>
+        <item>Cheeks are raised</item>
+        <item>Lip corners pulled up towards temples</item>
+    </string-array>
+
+    <string name="LearnEmotionActivity_tab_example">Example</string>
+    <string name="LearnEmotionActivity_tab_expression">Expression</string>
+    <string name="LearnEmotionActivity_tab_description">Description</string>
+    <string name="LearnEmotionActivity_trigger">Universal Trigger</string>
+    <string name="LearnEmotionActivity_purpose">Purpose</string>
+    <string name="LearnEmotionActivity_body">Body Reaction</string>
+    <string name="LearnEmotionActivity_fell">How It Feels</string>
+    <string name="LearnEmotionActivity_sound">How It Sounds</string>
+
+    <string name="LearnActivity_touch">Tap the screen and keep your finger on\nthe screen to view the expression.</string>
+
+    <string name="ResultActivity_tab_last_result">Last Result</string>
+    <string name="ResultActivity_tab_achievements">Achievements</string>
+    <string name="ResultActivity_tab_ranking">Ranking</string>
+    <string name="ResultActivity_empty_result">There are no results yet. Take your first test to see your rating and earn achievements!</string>
+    <string name="ResultActivity_correct_answers">Correct</string>
+    <string name="ResultActivity_replays">Repeats</string>
+    <string name="ResultActivity_your_stats">Your Stats</string>
+    <string name="Result_real_life_score">Real Life Score</string>
+    <string name="ResultActivity_correct_without_repetition">Correct without Repetition</string>
+    <string name="ResultActivity_buy_now">Buy full test to unlock all achievements and participate in global ranking</string>
+    <string name="ResultActivity_take_the_test">Take the Test</string>
+
+    <string name="Test_header_free">Free</string>
+    <string name="Test_header_discount_33">incl. 33% discount</string>
+    <string name="Test_header_coming_soon">Coming Soon</string>
+
+    <string name="TestActivity_start_test">Start test</string>
+    <string name="TestAdbActivity_learn_ever_more">Learn even more!</string>
+    <string name="TestAdbActivity_33_off">33% off</string>
+
+    <string name="Achievement_you_just_earned_an_achievement">You just earned an achievement!</string>
+    <string name="Achievement_time_s">Time(s)</string>
+    <string name="Achievement_boost">Boost</string>
+    <string name="Achievement_curiosity">Curiosity</string>
+    <string name="Achievement_knowledge">Knowledge Boost</string>
+    <string name="Achievement_master_recognizer">Master Recognizer</string>
+    <string name="Achievement_super_recognizer">Super Recognizer</string>
+    <string name="Achievement_curiosity_description">Congrats! You took the first test!</string>
+    <string name="Achievement_knowledge_description">Great! You completed the learning module!</string>
+    <string name="Achievement_boost_description">Awesome! You improved your results 3 times in a row!</string>
+    <string name="Achievement_master_recognizer_description">Impressive! You got it all correct!</string>
+    <string name="Achievement_super_recognizer_description">You rock! All correct with 0 repetitions!</string>
+    <string name="Achievement_surprise_description">Congrats! You got Surprise correct 3 tests in a row!</string>
+    <string name="Achievement_fear_description">Congrats! You got Fear correct 3 tests in a row!</string>
+    <string name="Achievement_anger_description">Congrats! You got Anger correct 3 tests in a row!</string>
+    <string name="Achievement_disgust_description">Congrats! You got Disgust correct 3 tests in a row!</string>
+    <string name="Achievement_sadness_description">Congrats! You got Sadness correct 3 tests in a row!</string>
+    <string name="Achievement_contempt_description">Congrats! You got Contempt correct 3 tests in a row!</string>
+    <string name="Achievement_happiness_description">Congrats! You got Happiness correct 3 tests in a row!</string>
+
+    <string name="Ranking_take_full_test">Take full test to participate in global ranking</string>
+    <string name="Ranking_registration_text">Choose a name to join ranking</string>
+    <string name="Ranking_registration_enter_a_user_name">Enter a user name</string>
+    <string name="Ranking_registration_join">Join</string>
+    <string name="Ranking_last_test_demo">Results of Demo Tests are not included in ranking</string>
+
+    <string name="Dialog_exit_test_title">Are you sure you want to quit the test?</string>
+    <string name="Dialog_exit_test_message">Any progress you made in this test session will be lost and not counted towards your rank</string>
+    <string name="Dialog_instructions_title">Instructions</string>
+    <string name="Dialog_instructions_header">When you are ready, the facial expression will flash of the screen:</string>
+    <string name="Dialog_instructions_identify">Identify one of the 7 universal emotions</string>
+    <string name="Dialog_instructions_repeat">Repeat up to 5 times for earch face</string>
+    <string name="Dialog_instructions_your_ranking">Your ranking depends on the number of:</string>
+    <string name="Dialog_instructions_the_right_answer">the right answer</string>
+    <string name="Dialog_instructions_repeats">repeats</string>
+    <string name="Dialog_reset_title">Are you sure?</string>
+    <string name="Dialog_reset_message">All you results, achievements and ranking will be reset. You purchases will stay intact</string>
+
+    <string name="by_for">Buy for</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="buy_now">Buy now</string>
+</resources>

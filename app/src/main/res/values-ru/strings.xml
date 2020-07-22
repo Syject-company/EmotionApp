@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Emotion_anger">Злость</string>
+    <string name="Emotion_anger_description">Функция злости, гнева - временно повысить нашу способность преодолевать препятствия на пути к цели. Гнев заставляет нас выглядеть угрожающе и готовиться к бою.</string>
+    <string name="Emotion_anger_trigger">Препятствие на пути к цели</string>
+    <string name="Emotion_anger_purpose">Устранить, уничтожить препятствие на пути к цели</string>
+    <string name="Emotion_anger_body_reaction">Кровь устремляется к верхней части тела. Лицо может покраснеть. Плечи расправляются, делая нас визуально больше. Часто мы подаёмся вперёд по направлению к источнику гнева. Длительная злость может вызвать перевозбуждение миндалевидного тела или <i> бунт амигдалы </i>, при котором полностью отключается рациональное мышление. Также может возникнуть повышение тестостерона и снижение уровня кортизола.</string>
+    <string name="Emotion_anger_feel">Жар, ощущение перегретой пароварки</string>
+    <string name="Emotion_anger_sound">Резкий,громкий</string>
+    <string-array name="Emotion_anger_cards">
+        <item>Брови насуплены: сдвинуты вместе и вниз</item>
+        <item>Верхние веки расширены, нижние веки напряжены и подтянуты вверх</item>
+        <item>Губы поджаты, иногда стиснуты вместе</item>
+        <item>Подбородок подтянут вверх или выдвинут вперёд</item>
+    </string-array>
+    <string name="Emotion_disgust_description">Наиболее вероятная эволюционная функция отвращения состояла в том, чтобы защитить наших предков от заражения испорченной пищей и контакта с больными существами.</string>
+    <string name="Emotion_disgust_trigger">нечто противное, оскорбительное</string>
+    <string name="Emotion_disgust_purpose">Отстраниться, не контактировать</string>
+    <string name="Emotion_disgust_body_reaction">Отвернуться, отойти</string>
+    <string name="Emotion_disgust_feel">Тошнота</string>
+    <string name="Emotion_disgust_sound">звук <i>буэ</i>,<i>муэ</i></string>
+    <string-array name="Emotion_disgust_cards">
+        <item>Брови сдвинуты вниз</item>
+        <item>Нос наморщен</item>
+        <item>Верхняя губа подтянута вверх</item>
+        <item>Нижняя губа расслаблена, отвешена</item>
+    </string-array>
+    <string name="Emotion_sadness_description">Триггером, основной причиной для грусти является потеря, которая зачастую необратима. Это делает грусть самой продолжительной эмоцией, которая может доходить до уровня полной агонии, затем успокаиваться до уровня горя и затем снова возрастать.</string>
+    <string name="Emotion_sadness_trigger">смерть близких, развод, потеря любимых вещей и возможностей</string>
+    <string name="Emotion_sadness_purpose">Зов о помощи</string>
+    <string name="Emotion_sadness_body_reaction">Потеря мышечного тонуса, вялость. Длительная грусть может сопровождаться снижением уровня гармонов удовольствия -  серотонина и дофамина.</string>
+    <string name="Emotion_sadness_feel">Камок в горле, раздраженные и/или слезящиеся глаза</string>
+    <string name="Emotion_sadness_sound">Тихий голос, всхлипования</string>
+    <string-array name="Emotion_sadness_cards">
+        <item>Внутренняя часть брови поднята вверх - Пьеро эффект</item>
+        <item>Веки приспущены</item>
+        <item>Уголки губ опущены вниз</item>
+    </string-array>
+
+    <string name="Emotion_contempt_description">Выражение презрения легко спутать с улыбкой. Но это асимметричное выражение, ухмылка, когда угол губ поднимается только с одной стороны, имеет совершенно другое значение. Эта эмоция ощущается только в отношении людей и/или их действий. Она вызвана чувством превосходства над кем-то.</string>
+    <string name="Emotion_contempt_trigger">Ощущение превосходства</string>
+    <string name="Emotion_contempt_purpose">Заявить своё превосходство</string>
+    <string name="Emotion_contempt_body_reaction">Взгляд свысока</string>
+    <string name="Emotion_contempt_feel">Приятное ощущение</string>
+    <string name="Emotion_contempt_sound">"ухмылка,<i>хех,хм</i> "</string>
+    <string-array name="Emotion_contempt_cards">
+        <item>Уголок губ подтянут кверху (всегда только с одной стороны)</item>
+        <item>Выражение глаз нейтральное</item>
+    </string-array>
+
+    <string name="Emotion_happiness_description">Радость - это самая интуитивная, но и самая сложная из всех эмоций. Универсальный триггер радости - это удовольствие. Однако, что конкретно является источником  этого удовольствия, может меняться и до сих пор не очень хорошоизучено.</string>
+    <string name="Emotion_happiness_trigger">Удовольствие</string>
+    <string name="Emotion_happiness_purpose">Сигнал открытости и дружелюбия</string>
+    <string name="Emotion_happiness_body_reaction">Ощущение приподнятости. В зависимости от типа удовольствия повышаются уровни серотонина, эндорфина, дофамина или окситоцина.</string>
+    <string name="Emotion_happiness_feel">Комфорт и тепло</string>
+    <string name="Emotion_happiness_sound">Выдох, смех</string>
+    <string-array name="Emotion_happiness_cards">
+        <item>Уголки глаз напряжены, <i>гусиные лапки</i></item>
+        <item>Щеки подтянуты вверх</item>
+        <item>Уголки рта растянуты по направлению к вискам</item>
+    </string-array>
+
+    <string name="Emotion_happiness">Радость</string>
+    <string name="Emotion_surprise">Удивление</string>
+    <string name="Emotion_sadness">Грусть</string>
+    <string name="Emotion_fear">Страх</string>
+    <string name="Emotion_contempt">Презрение</string>
+    <string name="Emotion_disgust">Отвращение</string>
+    <string name="SplashActivity_tab_emotions">Эмоции &amp; Мимика</string>
+    <string name="SplashActivity_tab_test">Тест &amp; Рейтинг</string>
+    <string name="SplashActivity_tab_result">Ваши Результаты</string>
+    <string name="MoreActivity_therms">Terms &amp; Conditions</string>
+    <string name="MoreActivity_privacy_policy">Privacy Policy</string>
+    <string name="MoreActivity_about">О EQally</string>
+    <string name="MoreActivity_title">Узнать больше</string>
+    <string name="ResultActivity_tab_last_result">Результат</string>
+    <string name="ResultActivity_tab_achievements">Трофеи</string>
+    <string name="ResultActivity_tab_ranking">Рейтинг</string>
+    <string name="Achievement_curiosity">Попытка Не Пытка</string>
+    <string name="Achievement_curiosity_description">Поздравляем! Вы прошли первый тест!</string>
+    <string name="Achievement_super_recognizer">Експерт</string>
+    <string name="Achievement_super_recognizer_description">Невероятно! Всё правильно и без повторений!</string>
+    <string name="Achievement_master_recognizer">Мастер</string>
+    <string name="Achievement_master_recognizer_description">Впечатляет! Ни одной ошибки!</string>
+    <string name="Achievement_boost">Взлёт</string>
+    <string name="Achievement_boost_description">Отлично! Вы улучшили свой результат 3 раза подряд</string>
+    <string name="Achievement_knowledge">Знание Сила</string>
+    <string name="Achievement_knowledge_description">Замечательно! Вы прошли весь обучающий модуль!</string>
+    <string name="Achievement_time_s">раз(а)</string>
+    <string name="Achievement_you_just_earned_an_achievement">Вы заслужили трофей!</string>
+    <string name="Achievement_anger_description">Поздравляем! Вы правильно идентифицировали злость 3 раза подряд!</string>
+    <string name="Achievement_contempt_description">Поздравляем! Вы правильно идентифицировали презрение 3 раза подряд!</string>
+    <string name="Achievement_disgust_description">Поздравляем! Вы правильно идентифицировали отвращение 3 раза подряд!</string>
+    <string name="Achievement_sadness_description">Поздравляем! Вы правильно идентифицировали грусть 3 раза подряд!</string>
+    <string name="Achievement_fear_description">Поздравляем! Вы правильно идентифицировали страх 3 раза подряд!</string>
+    <string name="Achievement_happiness_description">Поздравляем! Вы правильно идентифицировали радость 3 раза подряд!</string>
+    <string name="Achievement_surprise_description">Поздравляем! Вы правильно идентифицировали удивление 3 раза подряд!</string>
+    <string name="TestActivity_start_test">Начать</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="by_for">Купить за</string>
+    <string name="Test_Activity_full_test_name">Тест в анфас</string>
+    <string name="Test_Activity_profile_test_name">Тест в профиль</string>
+    <string name="Test_Activity_demo_test_name">Демо</string>
+    <string-array name="demo_test_description">
+        <item>13 изображений</item>
+        <item>7 Универсальных Эмоций</item>
+    </string-array>
+
+    <string-array name="full_test_description">
+        <item>240 изображений</item>
+        <item>20 Вопросов</item>
+        <item>7 Универсальных Эмоций</item>
+        <item>Ваш рейтинг</item>
+        <item>Трофеи</item>
+    </string-array>
+    <string name="Test_Activity_restore_purchases">Восстановить платежи</string>
+    <string name="Test_Activity_take_test">Начать Тест</string>
+    <string name="Dialog_exit_test_title">Вы уверены что хотите выйти из теста?</string>
+    <string name="Dialog_exit_test_message">Ваши ответы не будут защитаны</string>
+    <string name="TestActivity_i_m_ready">Готов(а)</string>
+    <string name="TestActivity_repeat">Повторить</string>
+    <string name="TestActivity_answer">Ответить</string>
+    <string name="TestActivity_bottom_sheet_header">Какую эмоцию Вы увидели?</string>
+    <string name="SelectEmotionActivity_text_content_emotions">О какой из универсальных эмоций Вы хотели бы узнать?</string>
+    <string name="LearnEmotionActivity_trigger">Универсальный триггер</string>
+    <string name="LearnEmotionActivity_purpose">Функция</string>
+    <string name="LearnEmotionActivity_body">Реакция тела</string>
+    <string name="LearnEmotionActivity_fell">Ощущения</string>
+    <string name="LearnEmotionActivity_sound">Звучание</string>
+    <string name="Dialog_reset_title">Уверены?</string>
+    <string name="Dialog_reset_message">Все Ваши результаты, трофеи и рейтинг будут удалены.</string>
+    <string name="Emotion_fear_description">Страх всегда связан с угрозой вреда для жизни, репутации, и т.п. Базовая основа страха - потеря физической поддержки (страх падения) или движущийся на нас объект, внезапно попадающий в поле зрения. Страх готовит нас к тому, чтобы позаботиться о себе. Он заставляет нас замереть и стать неподвижным, чтобы избежать опасного шага и/или стать невидимым для потенциального источника опасности. Он же даёт нам силы уносить ноги как можно быстрее от источника возможной опасности.</string>
+    <string name="Emotion_fear_trigger">Угроза вреда</string>
+    <string name="Emotion_fear_purpose">Избежать возможный вред или хотябы уменьшить ущерб</string>
+    <string name="Emotion_fear_body_reaction">Замереть или наоборот быстро отдалиться от источника страха. Кровь приливает к ногам, поэтому лицо бледнеет. Выбрас гормонов стресса - кортизол,адреналин и остеокальцин.</string>
+    <string name="Emotion_fear_feel">Холод, съёживание</string>
+    <string name="Emotion_fear_sound">Повышается частота голоса</string>
+    <string-array name="Emotion_fear_cards">
+        <item>Брови подняты вверх и одновременно сдвинуты вместе</item>
+        <item>Веки расширены</item>
+        <item>Рот растянут горизонтально в стороны</item>
+    </string-array>
+
+    <string name="Emotion_surprise_description">Удивление - это самая быстротечная эмоция, возникающая как реакция на неожиданное событие. Она длится всего пару секунд. Функция этой эмоции - привлечь внимание к тому, с чем Вы неожиданно столкнулись, и дать возможность быстро оценить ситуацию. Поэтому подлинное удивление быстро исчезает и трансформируется в следующую эмоцию, в зависимости от того чем было вызвано удивление.</string>
+    <string name="Emotion_surprise_trigger">Внезапное, неожиданное движение</string>
+    <string name="Emotion_surprise_purpose">Сфокусировать всё внимание на неожиданном событии</string>
+    <string name="Emotion_surprise_body_reaction">Отпрянуть. Это может быть просто движение головой или шаг назад</string>
+    <string name="Emotion_surprise_feel">Сфокусированный на новой информации</string>
+    <string name="Emotion_surprise_sound">Короткий разкий вдох</string>
+    <string-array name="Emotion_surprise_cards">
+        <item>Брови подняты вверх</item>
+        <item>Веки расширены</item>
+        <item>Отвисшая челюсть</item>
+    </string-array>
+
+    <string name="Test_header_free">Бесплатно</string>
+    <string name="Test_header_discount_33">включая 33% скидка</string>
+    <string name="Test_header_coming_soon">Скоро!</string>
+    <string name="Dialog_instructions_repeats">повторы</string>
+    <string name="Ranking_last_test_demo">Результаты Демо теста не учитываются в рейтинге.</string>
+    <string name="LearnEmotionActivity_tab_description">Описание</string>
+    <string name="LearnEmotionActivity_tab_expression">Мимика</string>
+    <string name="LearnEmotionActivity_tab_example">Пример</string>
+    <string name="Ranking_registration_join">Войти</string>
+    <string name="Ranking_registration_enter_a_user_name">Введите имя</string>
+    <string name="Ranking_registration_text">Введите имя чтобы присоединиться к рейтингу</string>
+    <string name="Result_real_life_score">Реальный результат</string>
+    <string name="ResultActivity_replays">Повторы</string>
+    <string name="ResultActivity_correct_answers">Правильно</string>
+    <string name="ResultActivity_take_the_test">Начать тест</string>
+    <string name="ResultActivity_correct_without_repetition">Правильно без повторов</string>
+    <string name="ResultActivity_your_stats">Ваша статистика</string>
+    <string name="ResultActivity_buy_now">Купите полный тест и получите доступ к всемирному рейтингу и трофеям.</string>
+    <string name="Dialog_instructions_title">Инструкции</string>
+    <string name="Dialog_instructions_header">Когда Вы будете готовы,выражение лица промелькнёт на экране:</string>
+    <string name="Dialog_instructions_identify">Определите, какой из 7 универсальных эмоций оно соответствует</string>
+    <string name="Dialog_instructions_repeat">Вы можете повторить каждое выражение до 5-и раз</string>
+    <string name="Dialog_instructions_your_ranking">Ваш рейтинг зависит от количества</string>
+    <string name="Dialog_instructions_the_right_answer">правильных ответов</string>
+    <string name="Ranking_take_full_test">Пройти полный тест и узнать свой рейтинг</string>
+    <string name="TestAdbActivity_learn_ever_more">Узнать больше</string>
+    <string name="ResultActivity_empty_result">Здесь пока нет рузультатов. Пройдите смой первый тест и получите доступ к рейтингу и трофеям!</string>
+    <string name="MoreActivity_reset_data">Сброс Данных</string>
+
+    <string name="More_about">
+    &lt;h1>O EQally&lt;/h1>
+    &lt;p>Мы - эксперты в области науки о поведении, коммуникации и эмоционального интеллекта. Наша цель объединить фундаментальные и новейшие исследования в области психологии, технологии и развлечения. EQally является отправной точкой, для того чтобы помочь людям лучше понять себя, расширить свои возможности и освоить инструменты коммуникации, предоставленные нам природой и эволюцией.&lt;/p>
+    &lt;p>В современном мире переполненном лживой и недостоверной информацией мы гарантируем, что все, что мы предлагаем, основано на научных исследованиях проверенных временем и опытом.&lt;/p>
+    &lt;p>Наша цель - сделать науку понятной, простой в использовании с помощью технологий и обеспечить удовольствие от обучения. Мы стремимся сделать знания о нас самих и причинах нашего поведения и восприятия реальности глобально доступными.&lt;/p>
+    &lt;p>EQally поможет каждому развить эмоциональную осведомленность, способность понять чувства и мотивацию других людей, и использовать эти знания для продуктивного и позитивного общения.&lt;/p>
+    </string>
+    <string name="TestAdbActivity_33_off">33% скидка</string>
+    <string name="buy_now">Купить</string>
+</resources>

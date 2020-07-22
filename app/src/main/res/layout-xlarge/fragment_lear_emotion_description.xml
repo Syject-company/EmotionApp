@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.syject.eqally.ui.custom.ParallaxScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:overScrollMode="never"
+        app:backgroundView="@id/emotionImage"
+        app:scrollFactor="0.6">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/emotionImage"
+                android:layout_width="match_parent"
+                android:layout_height="550dp"
+                android:scaleType="centerCrop"
+                tools:ignore="ContentDescription" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/white"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/emotionName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:gravity="center_vertical"
+                    android:padding="20dp"
+                    android:textColor="@color/darkGreyBlue"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/emotionDescription"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:textColor="@color/steel"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginBottom="20sp"
+                    android:gravity="center_vertical"
+                    android:text="@string/LearnEmotionActivity_trigger"
+                    android:textColor="@color/darkGreyBlue"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/emotionTrigger"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20sp"
+                    android:layout_marginEnd="20sp"
+                    android:layout_marginBottom="20sp"
+                    android:textColor="@color/steel"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginBottom="20sp"
+                    android:gravity="center_vertical"
+                    android:text="@string/LearnEmotionActivity_purpose"
+                    android:textColor="@color/darkGreyBlue"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/emotionPurpose"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20sp"
+                    android:layout_marginEnd="20sp"
+                    android:layout_marginBottom="20sp"
+                    android:textColor="@color/steel"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginBottom="20sp"
+                    android:gravity="center_vertical"
+                    android:text="@string/LearnEmotionActivity_body"
+                    android:textColor="@color/darkGreyBlue"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+
+                <TextView
+                    android:id="@+id/emotionBody"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20sp"
+                    android:layout_marginEnd="20sp"
+                    android:layout_marginBottom="20sp"
+                    android:textColor="@color/steel"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginBottom="20sp"
+                    android:gravity="center_vertical"
+                    android:text="@string/LearnEmotionActivity_fell"
+                    android:textColor="@color/darkGreyBlue"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/emotionFeel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20sp"
+                    android:layout_marginEnd="20sp"
+                    android:layout_marginBottom="20sp"
+                    android:textColor="@color/steel"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginBottom="20sp"
+                    android:gravity="center_vertical"
+                    android:text="@string/LearnEmotionActivity_sound"
+                    android:textColor="@color/darkGreyBlue"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+
+                <TextView
+                    android:id="@+id/emotionSound"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20sp"
+                    android:layout_marginEnd="20sp"
+                    android:layout_marginBottom="20sp"
+                    android:textColor="@color/steel"
+                    android:textSize="17sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.syject.eqally.ui.custom.ParallaxScrollView>
+</FrameLayout>

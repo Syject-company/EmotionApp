@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_emotion_gradient"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="55sp"
+            android:layout_height="55sp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="3sp"
+            android:background="@drawable/background_emotion_border">
+
+            <ImageView
+                android:id="@+id/emotionImage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="1sp"
+                android:scaleType="centerCrop" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/emotionName"
+            android:layout_width="0sp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="30dp"
+            android:layout_weight="1"
+            android:textColor="@color/darkGreyBlue"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:layout_width="45sp"
+            android:layout_height="45sp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ic_next_white"
+            android:tint="@color/veryLightPink" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/veryLightPink" />
+
+</LinearLayout>

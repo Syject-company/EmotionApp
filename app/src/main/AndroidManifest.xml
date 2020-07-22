@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.syject.eqally">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".AppApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="AllowBackup">
+
+        <activity
+            android:name=".ui.ActivityMain"
+            android:theme="@style/FullScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ui.more.ActivityMore" />
+
+        <activity
+            android:name=".ui.app.test.ActivityTakeTest"
+            android:launchMode="singleTask" />
+
+        <activity android:name=".ui.select.emotion.SelectEmotionActivity" />
+
+        <activity
+            android:name=".ui.result.ResultActivity"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="stateHidden" />
+
+        <activity android:name=".ui.app.test.ActivityTest" />
+
+        <activity android:name=".ui.learn.emotion.ActivityLearnEmotion" />
+
+        <activity android:name=".ui.app.test.ActivityAdbTest" />
+    </application>
+</manifest>

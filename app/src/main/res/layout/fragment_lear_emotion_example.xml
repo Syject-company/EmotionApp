@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/normalEmotion"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        tools:ignore="ContentDescription" />
+
+
+    <ImageView
+        android:id="@+id/currentEmotion"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.0"
+        android:scaleType="centerCrop"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:id="@+id/tapLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/background_example_emotion_gradient">
+
+            <ImageView
+                android:id="@+id/touchIcon"
+                android:layout_width="80sp"
+                android:layout_height="130dp"
+                android:layout_above="@id/touchTextView"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="25dp"
+                android:src="@drawable/ic_touch" />
+
+            <TextView
+                android:id="@+id/touchTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="30dp"
+                android:gravity="center"
+                android:text="@string/LearnActivity_touch"
+                android:textColor="@android:color/white"
+                android:textSize="17sp" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

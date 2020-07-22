@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Emotion_anger">Gniew</string>
+    <string name="Emotion_anger_description">Funkcją gniweu jest zwiększenie zdolności do pokonania przeszkód na drodze do celu. Sprawia, iż wyglądamy groźnie i przygotowuje nas do walki.</string>
+    <string name="Emotion_anger_trigger">Przeszkoda na drodze do celu</string>
+    <string name="Emotion_anger_purpose">Zatrzymać interferencję, usunąć przeszkodę na drodze do celu</string>
+    <string name="Emotion_anger_body_reaction">Krew pompowana jest do górnej części ciała. Twarz może zrobić się czerwona. Ramiona otwarte, dzięki czemu ciało staje się wizualnie większe. Pochylenie wprzód. Przedłużony gniew może wywołać <i>przejęcie ciała migdałowatego (amygdala hijack)</i> i może być połączone z podniesionym poziomem testosteronu i zmniejszonym poziomem kortyzolu.</string>
+    <string name="Emotion_anger_feel">Gorąco, wysokie ciśnienie</string>
+    <string name="Emotion_anger_sound">Ostry, szorstki i głośny dźwięk</string>
+    <string name="Emotion_disgust_description">Najbardziej prawdopodobną funkcją wstrętu, wynikającą z ewolucji, była ochrona naszych przodków przed zachorowaniem od zepsutego jedzenia, lub kontaktu z zakażonymi osobnikami.</string>
+    <string name="Emotion_disgust_trigger">Coś ohydnego</string>
+    <string name="Emotion_disgust_purpose">Oddalenie się od obiektu wstrętu</string>
+    <string name="Emotion_disgust_body_reaction">Zwrot, odsunięcie</string>
+    <string name="Emotion_disgust_feel">Rewulsja, mdłości</string>
+    <string name="Emotion_disgust_sound">dźwięki <i>ych, fe, be, ble, fe, fu, fuj</i></string>
+    <string name="Emotion_sadness_description">Bodźcem smutku jest utrata, która często jest nieodwracalna. To sprawia, iż smutek jest długotrwałą emocją, która może przejść w absolutną agonię, następnie opaść do poziomu żalu, aby ponownie wznieść się.</string>
+    <string name="Emotion_sadness_trigger">Utrata cennej osoby, przedmiotu lub okazji</string>
+    <string name="Emotion_sadness_purpose">Wołanie o pomoc</string>
+    <string name="Emotion_sadness_body_reaction">Utrata napięcia mięśni, luźne ciało. Przedłużony okres smutku kojarzony jest ze spadkiem hormonów przyjemności, takich, jak serotonina i dopamina.</string>
+    <string name="Emotion_sadness_feel">Ból gardła, obolałe i/lub wilgtone oczy</string>
+    <string name="Emotion_sadness_sound">Łagodny głos, szlochanie</string>
+    <string name="Emotion_contempt_description">Jest bardzo łatwo pomylić wyraz pogardy z wyrazem radości. Jednak ten asymetryczny wyraz twarzy, gdy kącik ust jest uniesiony tylko z jednej strony, ma zupełnie inne znaczenie. Emocja ta jest doświadczana tylko w stosunku do ludzi lub ich czynów. Jest wywołana poczuciem wyższości w stosunku do innych.</string>
+    <string name="Emotion_contempt_trigger">Poczucie wyższości</string>
+    <string name="Emotion_contempt_purpose">Zapewnienie własnej wyższości</string>
+    <string name="Emotion_contempt_body_reaction">Spoglądanie <i>z góry</i></string>
+    <string name="Emotion_contempt_feel">Przyjemność</string>
+    <string name="Emotion_contempt_sound">Specyficzne, nosowe <i>hm</i></string>
+    <string name="Emotion_happiness_description">Radość jest najbardziej intuicyjną, ale również najbardziej wyrafinowaną emocją. Uniwersalnym bodźcem jest przyjemność, jednak co przynosi nam tę przyjemność może być różnym i nie jest do końca zrozumiane.</string>
+    <string name="Emotion_happiness_trigger">Przyjemność</string>
+    <string name="Emotion_happiness_purpose">Towarzyski sygnał życzliwości</string>
+    <string name="Emotion_happiness_body_reaction">Poczucie wzniosłości. W zależności od rodzaju przyjemności, zwiększa się poziom serotoniny, endorfin, dopaminy lub oksytocyny.</string>
+    <string name="Emotion_happiness_feel">Ciepło</string>
+    <string name="Emotion_happiness_sound">Wydech, śmiech</string>
+    <string name="Emotion_disgust">Wstręt</string>
+    <string name="Emotion_fear">Strach</string>
+    <string name="Emotion_surprise">Zaskoczenie</string>
+    <string name="Emotion_sadness">Smutek</string>
+    <string name="Emotion_contempt">Pogarda</string>
+    <string name="Emotion_happiness">Radość</string>
+    <string name="LearnEmotionActivity_trigger">Uniwersalny Bodziec</string>
+    <string name="LearnEmotionActivity_purpose">Cel</string>
+    <string name="LearnEmotionActivity_body">Reakcja Fizyczna</string>
+    <string name="LearnEmotionActivity_fell">Uczucie</string>
+    <string name="LearnEmotionActivity_sound">Sygnał Dźwiękowy</string>
+    <string name="Emotion_fear_description">Strach jest odpowiedzią na zagrożenie życia lub uszczerbku na zdrowiu. Uniwersalnym motywem strachu jest utrata fizycznego wsparcia lub niebezpieczny obiekt w wchodzący w nasze pole widzenia. Strach przygotowuje nas do zadbania o nasze samopoczucie: paraliżuje nas i zatrzymuje, aby uniknąć niebezpiecznego kroku, lub stać się niewidzialnym dla potencjalnego źródła niebezpieczeństwa, a także w celu jak możliwe najszybszego odwrotu i ucieczki.</string>
+    <string name="Emotion_fear_trigger">Zagrożenie życia lub uszczerbku na zdrowiu</string>
+    <string name="Emotion_fear_purpose">Uniknąć lub zmniejszyć szkodę</string>
+    <string name="Emotion_fear_body_reaction">Paraliż lub ucieczka. Krew pompowana jest do nóg. Skóra staje się blada. Zostają uwolnione hormony związane ze stresem, takie, jak kortyzol, adrenalina i osteokalcyna.</string>
+    <string name="Emotion_fear_feel">Zimno, duszność</string>
+    <string name="Emotion_fear_sound">Wysoki, piskliwy dźwięk</string>
+    <string name="Emotion_surprise_description">Zaskoczenie jest najszybszą emocją, które pojawia się jako reakcja na niespodziewane wydarzenie i trwa zaledwie sekundę lub dwie. Celem jest przyciągnięcie naszej uwagi do sytuacji, na którą zostaliśmy wystawieni, i szybka ocena jej znaczenia. Dlatego autentyczne zaskoczenie znika błyskawicznie i zamienia się w następną emocję, która jest reakcją na wynik tej oceny.</string>
+    <string name="Emotion_surprise_trigger">Nagły, niespodzeiwany ruch</string>
+    <string name="Emotion_surprise_purpose">Skupienie uwagi na zachodzących zmianach otoczenia</string>
+    <string name="Emotion_surprise_body_reaction">Cofnięcie się. Może być to tylko ruch głowy lub górnej części ciała, ale także pełen krok w tył</string>
+    <string name="Emotion_surprise_feel">Uwaga i skupienie w poszukiwaniu nowych informacji</string>
+    <string name="Emotion_surprise_sound">Chwilowy wdech</string>
+    <string name="Achievement_curiosity">Ciekawość</string>
+    <string name="Achievement_curiosity_description">Gratulacje! Masz za sobą pierwszy test!</string>
+    <string name="Achievement_super_recognizer">Super Spostrzegawczość</string>
+    <string name="Achievement_super_recognizer_description">Super! Wszystko poprawnie i żadnych powtórek!</string>
+    <string name="Achievement_master_recognizer">Ekstra Spostrzegawczość</string>
+    <string name="Achievement_master_recognizer_description">Imponujące! Wszystko poprawnie!</string>
+    <string name="Achievement_boost">Postęp</string>
+    <string name="Achievement_boost_description">Świetnie! Poprawiony wynik 3 razy z rzędu!</string>
+    <string name="Achievement_knowledge">Wiedza</string>
+    <string name="Achievement_knowledge_description">Brawo! Zakończony moduł wiedzy!</string>
+    <string name="Achievement_time_s">raz(y)</string>
+    <string name="Achievement_you_just_earned_an_achievement">Nowe Osiągnięcie!</string>
+    <string name="Achievement_anger_description">Brawo! Rozpoznany Gniew w 3 testach z rzędu!</string>
+    <string name="Achievement_contempt_description">Brawo! Rozpoznana Pogarda w 3 testach z rzędu!</string>
+    <string name="Achievement_disgust_description">Brawo! Rozpoznany Wstręt w 3 testach z rzędu!</string>
+    <string name="Achievement_fear_description">Brawo! Rozpoznany Strach w 3 testach z rzędu!</string>
+    <string name="Achievement_happiness_description">Brawo! Rozpoznana Radość w 3 testach z rzędu!</string>
+    <string name="Achievement_sadness_description">Brawo! Rozpoznany Smutek w 3 testach z rzędu!</string>
+    <string name="Achievement_surprise_description">Brawo! Rozpoznane Zaskoczenie w 3 testach z rzędu!</string>
+    <string name="SplashActivity_tab_emotions">Emocje &amp; Twarz</string>
+    <string name="SplashActivity_tab_test">Testy &amp; Ranking</string>
+    <string name="SplashActivity_tab_result">Twoje Wyniki</string>
+    <string name="MoreActivity_therms">Warunki Użytkowania (ang.)</string>
+    <string name="MoreActivity_privacy_policy">Polityka Prywatności (ang.)</string>
+    <string name="MoreActivity_about">O EQally</string>
+    <string name="ResultActivity_tab_last_result">Ostatni Wynik</string>
+    <string name="ResultActivity_tab_achievements">Osiągnięcia</string>
+    <string name="ResultActivity_tab_ranking">Ranking</string>
+    <string name="MoreActivity_title">Dowiedz się więcej</string>
+    <string name="no">Nie</string>
+    <string name="yes">Tak</string>
+    <string name="TestActivity_start_test">Rozpocznij</string>
+    <string name="by_for">Kup za</string>
+    <string name="Ranking_registration_join">Dołącz</string>
+    <string name="Dialog_reset_title">Na pewno?</string>
+    <string name="Dialog_reset_message">Wszystkie Twoje wyniki, osiągnięcia oraz ranking bedą usunięte. Twoje zakupy pozostaną nietknięte.</string>
+    <string name="MoreActivity_reset_data">Wymaż Dane</string>
+    <string name="Ranking_registration_enter_a_user_name">Wprowadź imię</string>
+    <string name="Ranking_registration_text">Wybierz imię, aby dołączyć do rankingu</string>
+    <string name="Ranking_take_full_test">Zrób pełny (płatny) test, aby uczestniczyć w globalnym rankingu.</string>
+    <string name="Test_Activity_take_test">Rozpocznij Test</string>
+    <string name="Ranking_last_test_demo">Wyniki testów demonstracyjnych nie są uwzględniane w rankingu.</string>
+    <string name="Test_header_coming_soon">Już wkrótce!</string>
+    <string name="Result_real_life_score">Rzeczywisty Wynik</string>
+    <string name="ResultActivity_your_stats">Twoje Statystyki</string>
+    <string name="ResultActivity_correct_answers">Poprawne</string>
+    <string name="ResultActivity_correct_without_repetition">Poprawne bez Powtórzeń</string>
+    <string name="ResultActivity_replays">Powtórzenia</string>
+    <string name="ResultActivity_buy_now">Kup pełną wersję testu, aby odblokować wszystkie osiągnięcia i uczestniczyć w globalnym rankingu.</string>
+    <string name="ResultActivity_take_the_test">Rozpocznij Test</string>
+    <string name="Dialog_instructions_title">Jak Grać?</string>
+    <string name="TestActivity_i_m_ready">Jestem Gotowa(-y)</string>
+    <string name="TestActivity_repeat">Powtórz</string>
+    <string name="TestActivity_answer">Odpowiadam</string>
+    <string name="TestActivity_bottom_sheet_header">Jaką emocję właśnie zobaczyła(-eś)?</string>
+    <string name="Dialog_exit_test_title">Czy na pewno chcesz przerwać test?</string>
+    <string name="Dialog_exit_test_message">Dotychczasowe odpowiedzi w tym teście zostaną utracone i nie będą liczyć się do rankingu.</string>
+    <string name="Test_Activity_restore_purchases">Przywróć Zakupy</string>
+    <string name="Test_Activity_demo_test_name">Demonstracja</string>
+    <string name="Test_Activity_profile_test_name">Test z Profilem Twarzy</string>
+    <string name="Test_Activity_full_test_name">Test z Pełną Twarzą</string>
+    <string name="SelectEmotionActivity_text_content_emotions">O której z uniwersalnych emocji chciał(a)byś dowiedzieć się więcej?</string>
+    <string name="LearnEmotionActivity_tab_description">Opis</string>
+    <string name="LearnEmotionActivity_tab_expression">Wyraz Twarzy</string>
+    <string name="LearnEmotionActivity_tab_example">Przykład</string>
+    <string name="Test_header_free">Darmowy</string>
+    <string name="Test_header_discount_33">zawiera zniżkę 33%</string>
+    <string name="TestAdbActivity_33_off">33% zniżki</string>
+    <string name="ResultActivity_empty_result">Brak wyników. Zrób swój pierwszy test, aby zobaczyć swój wynik i zbierać osiągnięcia!</string>
+    <string name="TestAdbActivity_learn_ever_more">Naucz się jeszcze więcej!</string>
+    <string name="Dialog_instructions_header">Gdy będziesz gotowa(-y), wyraz twarzy mignie na ekranie:</string>
+    <string name="Dialog_instructions_identify">Zidentifikuj jedną z 7 uniwersalnych emocji</string>
+    <string name="Dialog_instructions_repeat">Masz możliwość 5 powtórek dla każdego pytania</string>
+    <string name="Dialog_instructions_your_ranking">Twój wynik zależy od ilości</string>
+    <string name="Dialog_instructions_the_right_answer">poprawnych odpowiedzi</string>
+    <string name="Dialog_instructions_repeats">powtórzeń</string>
+    <string name="More_about">
+    &lt;h1>About EQally&lt;/h1>
+    &lt;h1>O EQally&lt;/h1>
+    &lt;p>Jesteśmy grupą ekspertów, którzy postawili sobie za cel połączenie nauk behawioralnych, technologi i zabawy. EQally jest punktem wyjściowym na drodze do pomocy ludziom w rozwijaniu i doskonaleniu narzędzi komunikacji, które zapewniła nam natura i ewolucja.&lt;/p>
+    &lt;p>W świecie przepełnionym niewiarygodnymi informacjami gwarantujemy, że wszystko, co oferujemy, oparte jest na sprawdzonych badaniach naukowych.&lt;/p>
+    &lt;p>Naszym celem jest uczynienie nauki zrozumiałą, łatwą w użyciu dzięki technologii i szerzenie radosnej nauki. Staramy się, aby wiedza z nauk behawioralnych była dostępna na całym świecie za pośrednictwem naszych narzędzi, ponieważ język naszych emocji jest uniwersalny.&lt;/p>
+    &lt;p>EQally pomaga wszystkim w rozwijaniu świadomości emocjonalnej w rozmowach oraz zdolności do przyjmowania perspektywy innej osoby i uczenia się od nich.&lt;/p>
+    </string>
+    <string-array name="demo_test_description">
+        <item>13 Przykładowych Zdjęć</item>
+        <item>7 Uniwersalnych Emocji</item>
+    </string-array>
+
+    <string-array name="full_test_description">
+        <item>240 Zdjęć</item>
+        <item>20 Losowyc Pytań</item>
+        <item>7 Uniwersalnych Emocji</item>
+        <item>Udział w Rankingu</item>
+        <item>Kolekcja Osiągnięć</item>
+    </string-array>
+    <string-array name="Emotion_anger_cards">
+        <item>Brwi ściągnięte w dół i ku sobie</item>
+        <item>Górne powieki podniesione, dolne napięte i podniesione</item>
+        <item>Brzegi warg ściągnięte do środka, czasem usta napięte i zamknięte</item>
+        <item>Podbródek uniesiony lub wysunięty do przodu</item>
+    </string-array>
+
+    <string-array name="Emotion_disgust_cards">
+        <item>Brwi ściągnięte w dół</item>
+        <item>Nos zmarszczony</item>
+        <item>Górna warga podciągnięta do nosa</item>
+        <item>Dolna warga luźna</item>
+    </string-array>
+
+    <string-array name="Emotion_contempt_cards">
+        <item>Kącik ust uniesiony i ściągnięty (tylko z jednej strony)</item>
+        <item>Oczy neutralne</item>
+    </string-array>
+
+    <string-array name="Emotion_fear_cards">
+        <item>Brwi ściągnięte do siebie i w górę</item>
+        <item>Powieki podniesione</item>
+        <item>Usta rozciągnięte na boki</item>
+    </string-array>
+
+    <string-array name="Emotion_sadness_cards">
+        <item>Wewnętrzne kąciki brwi uniesione</item>
+        <item>Powieki luźne</item>
+        <item>Kąciki ust ściągnięte w dół</item>
+    </string-array>
+
+    <string-array name="Emotion_surprise_cards">
+        <item>Całe brwi podciągnięte w górę</item>
+        <item>Powieki podniesione</item>
+        <item>Usta otwarte, dolna część zwisa</item>
+    </string-array>
+
+    <string-array name="Emotion_happiness_cards">
+        <item>Zewnętrzne kąciki oczu napięte</item>
+        <item>Podniesione policzki</item>
+        <item>Kąciki ust uniesione w kierunku skroni</item>
+    </string-array>
+    <string name="buy_now">Kup Teraz</string>
+
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/registrLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:layout_marginStart="20sp"
+    android:layout_marginEnd="20sp"
+    android:clickable="true"
+    android:focusable="true"
+    android:visibility="gone"
+    app:cardCornerRadius="8sp"
+    app:cardElevation="4sp"
+    app:cardUseCompatPadding="true"
+    tools:showIn="@layout/fragment_result_ranking">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="@string/ResultActivity_tab_ranking"
+            android:textColor="@color/darkGreyBlue"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_marginEnd="20sp"
+            android:layout_marginStart="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20sp"
+            android:gravity="center"
+            android:text="@string/Ranking_registration_text"
+            android:textColor="@color/steel"
+            android:textSize="17sp" />
+
+        <EditText
+            android:id="@+id/userNameEditText"
+            android:layout_width="match_parent"
+            android:layout_height="40sp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:background="@drawable/backgorund_edit_text"
+            android:gravity="center"
+            android:hint="@string/Ranking_registration_enter_a_user_name"
+            android:imeOptions="actionDone"
+            android:inputType="text"
+            android:maxLines="1"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/joinButton"
+            style="@style/SolidButton"
+            android:layout_margin="20sp"
+            android:text="@string/Ranking_registration_join" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

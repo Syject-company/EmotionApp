@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#125D67</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="gradientTopColor">#135D67</color>
+    <color name="gradientBottomColor">#142D72</color>
+    <color name="splashRecyclerBackground">#10FFFFFF</color>
+    <color name="dividerDarkColor">#E0E0E0</color>
+    <color name="white">#DBDBDB</color>
+    <color name="whiteTwo">#F5F5F5</color>
+    <color name="whiteThree">#FFFFFF</color>
+    <color name="whiteThreeAlpha">#14FFFFFF</color>
+    <color name="whiteThreeAlphaNext">#2AFFFFFF</color>
+    <color name="whiteFour">#D3D3D3</color>
+    <color name="whiteFive">#F1F1F1</color>
+    <color name="darkGreyBlue">#313A50</color>
+    <color name="steel">#71718B</color>
+    <color name="vibrantGreen">#00D700</color>
+    <color name="mustard">#E2A200</color>
+    <color name="offWhite">#FCF5E5</color>
+    <color name="veryLightPink">#CCCCCC</color>
+    <color name="blackAlpha">#80000000</color>
+    <color name="cloudyBlue">#CADEDE</color>
+    <color name="beige">#F3ECDC</color>
+    <color name="blueGreen">#125D67</color>
+    <color name="darkGreyBlueAlpha">#40313A50</color>
+    <color name="grayDark">#808080</color>
+</resources>

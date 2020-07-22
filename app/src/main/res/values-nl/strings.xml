@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Emotion_anger">Woede</string>
+    <string name="Emotion_anger_description">De functie van woede is het vergroten van iemands vermogen om obstakels op weg naar het doel te overwinnen. Het laat ons er bedreigend uitzien en bereid ons voor op het gevecht.</string>
+    <string name="Emotion_anger_trigger">Onderbreking met een doel</string>
+    <string name="Emotion_anger_purpose">Stop de onderbreking, verwijder de dreiging naar het doel toe.</string>
+    <string name="Emotion_anger_body_reaction">Bloed stroomt naar het bovenste deel van het lichaam. Gezicht kan rood worden. Schouders naar achteren, waardoor het lichaam visueel groter wordt en leunend naar voren. Langdurige woede kan <i> amygdala-kaping </i> veroorzaken en kan ook worden geassocieerd met toename van testosteron en afname van cortisolspiegels</string>
+    <string name="Emotion_anger_feel">Hitte, snelkookpan</string>
+    <string name="Emotion_anger_sound">Scherp, hard, luid</string>
+    <string name="Emotion_disgust_description">De meest waarschijnlijke evolutionaire functie van walging was om onze voorouders te beschermen tegen ziek worden van bedorven voedsel en het contact hebben met zieke wezens.</string>
+    <string name="Emotion_disgust_trigger">Onaangenaam</string>
+    <string name="Emotion_disgust_purpose">Zich ervan verwijderen</string>
+    <string name="Emotion_disgust_body_reaction">Stap achteruit doen, wegdraaien</string>
+    <string name="Emotion_disgust_feel">Afkering, misselijkheid</string>
+    <string name="Emotion_disgust_sound"><i>bah</i> geluid</string>
+    <string name="Emotion_disgust">Walging</string>
+    <string name="Emotion_contempt">Minachting</string>
+    <string name="Emotion_contempt_description">Het is gemakkelijk om de uitdrukking van minachting te verwarren met een glimlach. Maar deze asymmetrische uitdrukking, wanneer de liphoek slechts aan één kant wordt opgetrokken, heeft een totaal andere betekenis. Deze emotie wordt alleen ervaren met betrekking tot mensen of hun acties. Het wordt veroorzaakt door het gevoel superieur te zijn aan iemand.</string>
+    <string name="Emotion_contempt_trigger">Gevoel van superieuriteit</string>
+    <string name="Emotion_contempt_purpose">Eigen superieuriteit doen gelden</string>
+    <string name="Emotion_contempt_body_reaction">Langs <i>je neus kijken</i></string>
+    <string name="Emotion_contempt_feel">Voelt goed</string>
+    <string name="Emotion_contempt_sound">Zelfvoldaan geluid</string>
+    <string name="Emotion_fear">Angst</string>
+    <string name="Emotion_fear_description">Angst is geconfornteerd worden met een bedreiging of mogelijke pijn. Fear is dealing with a threat of harm. Het universele thema van angst is verlies van fysieke ondersteuning of een bedreigend object dat het gezichtsveld binnengaat. Angst bereidt ons voor om voor ons wezen te zorgen: bevriezen en bewegingloos worden om een ​​gevaarlijke stap te vermijden en / of onzichtbaar worden voor de potentiële bron van gevaar of om zo snel mogelijk weg te vluchten.</string>
+    <string name="Emotion_fear_trigger">Dreiging van mogelijke pijn</string>
+    <string name="Emotion_fear_purpose">Vermijden of reduceren van mogelijke pijn,</string>
+    <string name="Emotion_fear_body_reaction">Bevriezen of weggaan. Bloed stroomt naar de benen. De huid wordt bleek. Stressgerelateerde hormonen zoals cortisol, adrenaline en osteocalcine komen vrij</string>
+    <string name="Emotion_fear_feel">Koud, in elkaar krimpen</string>
+    <string name="Emotion_fear_sound">Hogere toonhoogte</string>
+    <string name="Emotion_sadness">Droefheid</string>
+    <string name="Emotion_sadness_description">De oorzaak van verdriet is een verlies, dat vaak onomkeerbaar is. Dat maakt droefheid tot een langdurige emotie die kan oplopen tot het niveau van volledige pijnvervolgens tot het niveau van tot bedaren komen en dan weer opstaan.</string>
+    <string name="Emotion_sadness_trigger">Verlies van een gewaardeerd persoon, voorwerp of kans.</string>
+    <string name="Emotion_sadness_purpose">Roep om hulp</string>
+    <string name="Emotion_sadness_body_reaction">Verlies van spierspanning, slap lichaam. Langdurig verdriet wordt geassocieerd met afname van de plezierhormonen serotonine en dopamine.</string>
+    <string name="Emotion_sadness_feel">Keelpijn, pijnlijke en / of waterige ogen</string>
+    <string name="Emotion_sadness_sound">Zachtere stem, snikken</string>
+    <string name="Emotion_surprise">Verrassing</string>
+    <string name="Emotion_surprise_description">Verrassing is de snelste emotie die verschijnt als een reactie op een onverwachte gebeurtenis en duurt slechts een seconde of twee. Het doel is om de aandacht te vestigen op waar je onverwacht aan bent blootgesteld en om een ​​snelle inschatting van de betekenis ervan mogelijk te maken. Daarom verdwijnt echte verrassing zo snel en schakel je over naar de volgende emotie die de evaluatie afrondt.</string>
+    <string name="Emotion_surprise_trigger">Plotselinge, onverwachte beweging</string>
+    <string name="Emotion_surprise_purpose">Om je aandacht te richten op de verandering in de omgeving</string>
+    <string name="Emotion_surprise_body_reaction">Achteruit bewegen. Kan alleen een beweging van hoofd of bovenlichaam zijn maar ook een stapje terug.</string>
+    <string name="Emotion_surprise_feel">Oplettend, gericht op nieuwe informatie</string>
+    <string name="Emotion_surprise_sound">Ademhaling stokt</string>
+    <string name="Emotion_happiness_description">Blijdschap is de meest intuïtieve, maar ook de meest geavanceerde emotie. De universele trigger daarvoor is plezier, maar wat ons dat plezier brengt, kan variëren en tot nu toe is niet erg goed begrepen.</string>
+    <string name="Emotion_happiness_trigger">Genoegen</string>
+    <string name="Emotion_happiness_purpose">Sociaal signaal van vriendelijkheid</string>
+    <string name="Emotion_happiness_body_reaction">Verhoogd. Afhankelijk van het soort genot nemen serotonine, endorfine, dopamine of oxytocine toe.</string>
+    <string name="Emotion_happiness_feel">Warmte</string>
+    <string name="Emotion_happiness_sound">Adem uit, gelach</string>
+    <string name="Emotion_happiness">Blijdschap</string>
+    <string name="SplashActivity_tab_emotions">Emoties &amp; Gezicht</string>
+    <string name="SplashActivity_tab_test">Test &amp; Rangschikking</string>
+    <string name="SplashActivity_tab_result">Je resultaten</string>
+    <string name="MoreActivity_therms">Voorwaarden</string>
+    <string name="MoreActivity_privacy_policy">Privacy Beleid</string>
+    <string name="MoreActivity_about">OverEQally</string>
+    <string name="Dialog_reset_title">Weet je het zeker?</string>
+    <string name="Dialog_reset_message">Al je resultaten, medialles en je ranking zal worden gewist. Je aankopen blijven geldig.</string>
+    <string name="LearnEmotionActivity_trigger">Universele Veroorzaker</string>
+    <string name="LearnEmotionActivity_purpose">Doel</string>
+    <string name="LearnEmotionActivity_body">Reactie Van Het Lichaam</string>
+    <string name="LearnEmotionActivity_fell">Hoe Het Voelt</string>
+    <string name="LearnEmotionActivity_sound">Hoe Het Klinkt</string>
+    <string name="Achievement_curiosity">Nieuwsgierigheid</string>
+    <string name="Achievement_curiosity_description">Gefeliciteerd! Je hebt je eerste test gedaan!</string>
+    <string name="Achievement_super_recognizer">Super Herkenner</string>
+    <string name="Achievement_super_recognizer_description">Wow! Allemaal goed zonder herhalingen!</string>
+    <string name="Achievement_master_recognizer">Meester Herkenner</string>
+    <string name="Achievement_master_recognizer_description">Indrukwekkend! Je hebt alles correct!</string>
+    <string name="Achievement_boost">Versnelling</string>
+    <string name="Achievement_boost_description">Te gek! Je resultaten zijn 3 keer op een rij verbeterd!</string>
+    <string name="Achievement_knowledge">Kennis</string>
+    <string name="Achievement_knowledge_description">Geweldig! Je hebt de leermodule afgerond!</string>
+    <string name="Achievement_time_s">keer</string>
+    <string name="Achievement_you_just_earned_an_achievement">Je hebt een nieuwe medaille behaald!</string>
+    <string name="Achievement_anger_description">Gefeliciteerd! Je hebt Walging 3 opeenvolgende tests goed!</string>
+    <string name="Achievement_contempt_description">Gefeliciteerd! Je hebt Walging 3 opeenvolgende tests goed!</string>
+    <string name="Achievement_disgust_description">Gefeliciteerd! Je hebt Walging 3 opeenvolgende tests goed!</string>
+    <string name="Achievement_fear_description">Gefeliciteerd! Je hebt Angst 3 opeenvolgende tests goed!</string>
+    <string name="Achievement_happiness_description">Gefeliciteerd! Je hebt Blijdschap 3 opeenvolgende tests goed!</string>
+    <string name="Achievement_sadness_description">Gefeliciteerd! Je hebt Droefheid 3 opeenvolgende tests goed!</string>
+    <string name="Achievement_surprise_description">Gefeliciteerd! Je hebt Verrassing 3 opeenvolgende tests goed!</string>
+    <string name="Test_Activity_full_test_name">Volledige Gezicht Test</string>
+    <string name="Test_Activity_profile_test_name">Profiel Test</string>
+    <string name="Test_Activity_demo_test_name">Demo</string>
+    <string name="Test_Activity_restore_purchases">Herstel Aankopen</string>
+    <string name="TestAdbActivity_learn_ever_more">Leer nog meer!</string>
+    <string name="TestAdbActivity_33_off">33% korting</string>
+    <string name="TestActivity_bottom_sheet_header">Welke emotie heb je zojuist herkend?</string>
+    <string name="TestActivity_i_m_ready">Ik ben er klaar voor</string>
+    <string name="TestActivity_repeat">Herhaal</string>
+    <string name="TestActivity_answer">Antwoord</string>
+    <string name="Dialog_exit_test_title">Weet je zeker dat je wilt stoppen met deze test?</string>
+    <string name="Dialog_exit_test_message">Alle scores in deze sessie zullen verloren gaan en tellen niet mee in je totaalscore.</string>
+    <string name="ResultActivity_take_the_test">Doe De Test</string>
+    <string name="SelectEmotionActivity_text_content_emotions">Over welke universele emotie wil je meer leren?</string>
+    <string name="LearnEmotionActivity_tab_description">Beschrijving</string>
+    <string name="LearnEmotionActivity_tab_example">Voorbeeld</string>
+    <string name="LearnEmotionActivity_tab_expression">Expressie</string>
+    <string name="MoreActivity_reset_data">Wis Data</string>
+    <string name="ResultActivity_empty_result">Er zijn nog geen resultaten. Doe je eerste test om je score te zien en verdien je medailles!</string>
+    <string name="MoreActivity_title">Leer Meer</string>
+    <string name="Test_Activity_take_test">Doe de Test</string>
+    <string name="ResultActivity_buy_now">Koop de volledige test om toegang te krijgen tot een overzicht tot alle resultaten en neem deel aan de wereldwijde ranglijst.</string>
+    <string name="Result_real_life_score">Real Life Score</string>
+    <string name="ResultActivity_your_stats">Jouw Statistieken</string>
+    <string name="ResultActivity_correct_answers">Juiste Antwoorden</string>
+    <string name="ResultActivity_correct_without_repetition">Correct zonder Herhaling</string>
+    <string name="ResultActivity_replays">Herhalingen</string>
+    <string name="Ranking_last_test_demo">Resultaten van demotests zijn niet opgenomen in de ranking.</string>
+    <string name="Ranking_registration_enter_a_user_name">Vul een gebruikersnaam in</string>
+    <string name="Ranking_registration_text">Kies een naam om deel te nemen aan de ranking.</string>
+    <string name="by_for">Koop voor</string>
+    <string name="no">Nee</string>
+    <string name="yes">Ja</string>
+    <string name="Ranking_registration_join">Treed toe</string>
+    <string name="ResultActivity_tab_last_result">Laatste Resultaat</string>
+    <string name="ResultActivity_tab_achievements">Scores</string>
+    <string name="ResultActivity_tab_ranking">Ranking</string>
+    <string name="TestActivity_start_test">Start</string>
+    <string name="Test_header_free">Gratis</string>
+    <string name="Test_header_discount_33">incl. 33% korting</string>
+    <string name="Test_header_coming_soon">Binnenkort</string>
+    <string name="Dialog_instructions_title">Instructies</string>
+    <string name="Dialog_instructions_header">Wanneer je er klaar voor bent, zal de gezichtsuitdrukking kort op het scherm zichtbaar zijn:</string>
+    <string name="Dialog_instructions_identify">Herken 1 van deze 7 universele emoties</string>
+    <string name="Dialog_instructions_repeat">Je kan dit tot 5 keer herhalen voor hetzelfde gezicht</string>
+    <string name="Dialog_instructions_your_ranking">Jouw score hangt af van het aantal</string>
+    <string name="Dialog_instructions_the_right_answer">juiste antwoorden</string>
+    <string name="Dialog_instructions_repeats">herhalingen</string>
+    <string name="Ranking_take_full_test">Zrób pełny (płatny) test, aby uczestniczyć w globalnym rankingu.</string>
+    <string-array name="demo_test_description">
+        <item>13 Voorbeeld Afbeeldingen</item>
+        <item>7 Universele Emoties</item>
+    </string-array>
+
+    <string-array name="full_test_description">
+        <item>240 Afbeeldingen</item>
+        <item>20 Willekeurige Vragen</item>
+        <item>7 Universele Emoties</item>
+        <item>Vergelijk Je Score Met Anderen</item>
+        <item>Verdien Awards</item>
+    </string-array>
+    <string-array name="Emotion_anger_cards">
+        <item>Wenkbrauwen naar beneden en samengetrokken</item>
+        <item>Bovenste oogleden omhoog getrokken, onderste oogleden strakker en omhoog getrokken</item>
+        <item>Marge van de lippen ingetrokken, soms lippen strak</item>
+        <item>Kin omhoog of geduwd</item>
+    </string-array>
+    <string-array name="Emotion_disgust_cards">
+        <item>Wenkbrauwen naar beneden getrokken</item>
+        <item>Gerimpelde neus</item>
+        <item>Bovenlip naar boven getrokken</item>
+        <item>Onderlip los</item>
+    </string-array>
+    <string-array name="Emotion_contempt_cards">
+        <item>Kącik ust uniesiony i ściągnięty (tylko z jednej strony)</item>
+        <item>Oczy neutralne</item>
+    </string-array>
+    <string-array name="Emotion_fear_cards">
+        <item>Wenkbrouwen omhoog - en samengetrokken.</item>
+        <item>Oogleden trekken omhoog.</item>
+        <item>Mond rekt zich zijwaarts uit</item>
+    </string-array>
+    <string-array name="Emotion_sadness_cards">
+        <item>Binnenkant van de wenkbrauwen omhoog.</item>
+        <item>Oogleden losjes</item>
+        <item>Hoeken van de lippen naar beneden getrokken</item>
+    </string-array>
+    <string-array name="Emotion_surprise_cards">
+        <item>De gehele wenkbrauw naar boven getrokken.</item>
+        <item>Oogleden naar boven getrokken</item>
+        <item>Mond hangt open</item>
+    </string-array>
+    <string-array name="Emotion_happiness_cards">
+        <item>Zijkant van de ogen samengeknepen</item>
+        <item>Wangen naar boven</item>
+        <item>Hoeken van de lip naar boven richting de slapen</item>
+    </string-array>
+    <string name="More_about">
+    &lt;h1>Over EQally&lt;/h1>
+    &lt;p>Wij zijn experts die als doel hebben om de gedragswetenschap, technology  en plezier samen te brengen. Eqally is het vertrekpunt om mensen te helpen om onze communicatiemiddelen welke de natuur en evolutie ons hebben te gegeven uit te breiden.&lt;/p>
+    &lt;p>In een wereld waarin we worden overstelpt met onbetrouwbare informatie, garanderen wij dat alles wat we aanbieden is gebaseerd op wetenschappelijke basis welke de tand des tijds heeft doorstaan.&lt;/p>
+    &lt;p>Ons doel is om wetenschap begrijpelijk te maken, gemakkelijk in gebruik door technologie en om een plezierige leerervaring mee te geven. We streven ernaar om de kennis omtrent gedrag voor iedereen beschikbaar te maken door het aanbieden van onze diensten omdat de taal van onze emotionele expressies universeel is.&lt;/p>
+    &lt;p>EQally helpt iedereen om emotionele bewustzijn te ontwikkelen en  om in staat te zijn iemand anders zijn  of haar perspectief te zien en er van te leren.&lt;/p>
+    </string>
+    <string name="buy_now">Koop Nu</string>
+
+</resources>

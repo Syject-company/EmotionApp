@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Emotion_anger">Rabbia</string>
+    <string name="Emotion_anger_description">Tla funzione della rabbia è quella di aumentare la propria capacità di superare gli ostacoli sulla strada verso l\\\'obiettivo. Ci fa sembrare minacciosi e ci prepara alla lotta.</string>
+    <string name="Emotion_anger_trigger">Interferenza con un obiettivo</string>
+    <string name="Emotion_anger_purpose">Ferma le interferenze, elimina la minaccia all\'obiettivo</string>
+    <string name="Emotion_anger_body_reaction">Il sangue scorre veloce nella parte superiore del corpo. Il viso potrebbe diventare rosso. Le spalle si aprono, rendendo il corpo visivamente più grande. Inclinati in avanti. La rabbia prolungata può causare <i> dirottamento dell\'amigdala </i> e può anche essere associata all\'aumento del testosterone e alla diminuzione dei livelli di cortisolo.</string>
+    <string name="Emotion_anger_feel">Calore, pentola a pressione</string>
+    <string name="Emotion_anger_sound">Bordo, aspro, forte</string>
+    <string name="Emotion_disgust_description">La più probabile funzione evolutiva del disgusto era quella di proteggere i nostri antenati dall\'ammalarsi dal cibo viziato e dal contatto con le creature malate.</string>
+    <string name="Emotion_disgust_trigger">Offensivo</string>
+    <string name="Emotion_disgust_purpose">Allontanarsi da</string>
+    <string name="Emotion_disgust_body_reaction">Torna indietro, voltarsi</string>
+    <string name="Emotion_disgust_feel">Revulsione, nausea</string>
+    <string name="Emotion_disgust_sound"><i>yuck</i> indicazione - che schifo</string>
+    <string name="Emotion_disgust">Disgusto</string>
+    <string name="Emotion_contempt">Disprezzo</string>
+    <string name="Emotion_contempt_description">È facile confondere l\'espressione di disprezzo con un sorriso. Ma questa espressione asimmetrica, quando l\'angolo del labbro è sollevato su un lato, ha un significato totalmente diverso. Questa emozione è vissuta solo riguardo alle persone o alle loro azioni. È innescato dalla sensazione di essere superiore a qualcuno.</string>
+    <string name="Emotion_contempt_trigger">Sensazione di superiorità</string>
+    <string name="Emotion_contempt_purpose">Asserire la propria superiorità</string>
+    <string name="Emotion_contempt_body_reaction">guarda <i>il tuo naso</i></string>
+    <string name="Emotion_contempt_feel">Fa sentire bene</string>
+    <string name="Emotion_contempt_sound">Suono compiaciuto</string>
+    <string name="Emotion_happiness_description">La felicità è l\'emozione più intuitiva, ma anche la più sofisticata. L\'innesco universale è il piacere, ma ciò che ci porta a quel piacere può variare e fino ad ora non è ben compreso.</string>
+    <string name="Emotion_happiness_trigger">Piacere</string>
+    <string name="Emotion_happiness_purpose">Segnale sociale di cordialità</string>
+    <string name="Emotion_happiness_body_reaction">Elevata. A seconda del tipo di piacere, aumentano i livelli di serotonina, endorfina, dopamina o ossitocina.</string>
+    <string name="Emotion_happiness_feel">Calore</string>
+    <string name="Emotion_happiness_sound">Espira, risate</string>
+    <string name="Emotion_surprise_description">La sorpresa è l\'emozione più rapida che appare come una reazione a un evento inaspettato e dura solo per un secondo o due. Il suo scopo è quello di attirare l\'attenzione su ciò a cui sei stato inaspettatamente esposto e di consentire una rapida stima del suo significato. Ecco perché la vera sorpresa svanisce così rapidamente e passa all\'emozione successiva che conclude la valutazione.</string>
+    <string name="Emotion_surprise_trigger">Movimento improvviso e inaspettato</string>
+    <string name="Emotion_surprise_purpose">Per focalizzare la tua attenzione sul cambiamento nell\'ambiente</string>
+    <string name="Emotion_surprise_body_reaction">Muoversi indietro. Può essere solo una mossa della testa o della parte superiore del corpo o addirittura un passo indietro.</string>
+    <string name="Emotion_surprise_feel">Attento, concentrato su nuove informazioni</string>
+    <string name="Emotion_surprise_sound">Inspirazione momentanea</string>
+    <string name="Emotion_fear_description">La paura ha a che fare con una minaccia di danno. Il tema universale della paura è la perdita di supporto fisico o un oggetto minaccioso che entra nel campo visivo. La paura ci prepara a prenderci cura del nostro essere: congelare e diventare immobili per evitare un passo pericoloso e / o diventare invisibili per la potenziale fonte di pericolo o fuggire il più velocemente possibile.</string>
+    <string name="Emotion_fear_trigger">Minaccia di danno</string>
+    <string name="Emotion_fear_purpose">Evitare o ridurre i danni</string>
+    <string name="Emotion_fear_body_reaction">Congelare o allontanarsi. Il sangue scorre veloce fino alle gambe. La pelle diventa pallida. Gli ormoni legati allo stress come cortisolo, adrenalina e osteocalcina vengono rilasciati.</string>
+    <string name="Emotion_fear_feel">Freddo, costrizione</string>
+    <string name="Emotion_fear_sound">Tono alto</string>
+    <string name="Emotion_sadness_description">L\'innesco della tristezza è una perdita, che è spesso irreversibile. Ciò rende la tristezza un\'emozione duratura che può salire fino ai livelli di completa agonia, per poi calmarsi fino ai livelli di dolore, e poi risorgere.</string>
+    <string name="Emotion_sadness_trigger">Perdita di una persona, oggetto od opportunità</string>
+    <string name="Emotion_sadness_purpose">Richiesta d\'aiuto</string>
+    <string name="Emotion_sadness_body_reaction">Perdita di tono muscolare, corpo rilassato. La tristezza prolungata è associata alla riduzione degli ormoni del piacere serotonina e dopamina.</string>
+    <string name="Emotion_sadness_feel">Mal di gola, dolore e / o lacrimazione</string>
+    <string name="Emotion_sadness_sound">Voce più dolce, singhiozzando</string>
+    <string name="Emotion_sadness">Tristezza</string>
+    <string name="Emotion_happiness">Felicità</string>
+    <string name="Emotion_surprise">Sorpresa</string>
+    <string name="Emotion_fear">Paura</string>
+    <string name="Achievement_curiosity">Curiosità</string>
+    <string name="Achievement_curiosity_description">Congratulazioni! Hai fatto il tuo primo test!</string>
+    <string name="Achievement_super_recognizer">Esperto</string>
+    <string name="Achievement_super_recognizer_description">Magnifico! Hai risposto tutto correttamente con 0 ripetizioni!</string>
+    <string name="Achievement_master_recognizer">Maestro</string>
+    <string name="Achievement_master_recognizer_description">Impressionante! Hai risposto tutto correttamente!</string>
+    <string name="Achievement_boost">Incentivo</string>
+    <string name="Achievement_boost_description">Fantastico! Hai migliorato I tuoi risltati 3 volte di seguito!</string>
+    <string name="Achievement_knowledge_description">Fantastico! Hai completato il modulo di apprendimento</string>
+    <string name="Achievement_anger_description">Congratulazioni! Hai risposto correttamente a Rabbia per 3 tests di fila!</string>
+    <string name="Achievement_contempt_description">Congratulazioni! Hai risposto correttamente a Disprezzo per 3 tests di fila!</string>
+    <string name="Achievement_disgust_description">Congrats! Congratulazioni! Hai risposto correttamente a Disgusto per 3 tests di fila!</string>
+    <string name="Achievement_fear_description">Congratulazioni! Hai risposto correttamente a Paura per 3 tests di fila!</string>
+    <string name="Achievement_surprise_description">Congratulazioni! Hai risposto correttamente a Sorpresa per 3 tests di fila!</string>
+    <string name="Achievement_sadness_description">Congratulazioni! Hai risposto correttamente a Tristezza per 3 tests di fila!</string>
+    <string name="Achievement_happiness_description">Congratulazioni! Hai risposto correttamente a Felicità per 3 tests si fila!</string>
+    <string name="Achievement_knowledge">Conoscenza</string>
+    <string name="Achievement_you_just_earned_an_achievement">Hai vinto un nuovo trofeo!</string>
+    <string name="Achievement_time_s">tempo(i)</string>
+    <string name="SplashActivity_tab_test">Test &amp; Classifica</string>
+    <string name="SplashActivity_tab_emotions">Emozioni e Viso</string>
+    <string name="SplashActivity_tab_result">I tuoi Risultati</string>
+    <string name="MoreActivity_therms">Termini &amp; Condizioni</string>
+    <string name="MoreActivity_privacy_policy">Riservatezza dei Dati</string>
+    <string name="MoreActivity_about">A proposito di EQally</string>
+    <string name="Dialog_reset_title">Sei sicuro?</string>
+    <string name="Dialog_reset_message">I tuoi risultati, trofei e classifica saranno resettati. Il tuo acquisto rimarrà intatto.</string>
+    <string name="MoreActivity_reset_data">Reset Dati</string>
+    <string name="Test_header_discount_33">Incl. sconto 33%</string>
+    <string name="Test_header_free">Free</string>
+    <string name="Test_Activity_restore_purchases">Ripristina gli acquisti</string>
+    <string name="TestAdbActivity_learn_ever_more">Scopri di più!</string>
+    <string name="TestAdbActivity_33_off">33% di sconto</string>
+    <string name="LearnEmotionActivity_trigger">Innesco Universale</string>
+    <string name="LearnEmotionActivity_purpose">Fine</string>
+    <string name="LearnEmotionActivity_body">Reazione Corporea</string>
+    <string name="LearnEmotionActivity_fell">Cosa si prova</string>
+    <string name="LearnEmotionActivity_sound">Come suona</string>
+    <string name="ResultActivity_tab_last_result">Ultimo Risultato</string>
+    <string name="ResultActivity_tab_achievements">Trofei</string>
+    <string name="ResultActivity_tab_ranking">Classifica</string>
+    <string name="LearnEmotionActivity_tab_description">Descrizione</string>
+    <string name="LearnEmotionActivity_tab_expression">Espressione</string>
+    <string name="LearnEmotionActivity_tab_example">Esempio</string>
+    <string name="SelectEmotionActivity_text_content_emotions">Di quale emozione unversale vuoi saperne di più?</string>
+    <string name="Ranking_last_test_demo">I risultati dei test dimostrativi non sono inclusi nella classifica.</string>
+    <string name="by_for">Acquista per</string>
+    <string name="Ranking_registration_join">Partecipa</string>
+    <string name="MoreActivity_title">Per saperne di più</string>
+    <string name="TestActivity_start_test">Inizia</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="Test_Activity_full_test_name">Test - Vista Frontale del Viso</string>
+    <string name="Test_Activity_profile_test_name">Test - Vista di Profilo del Viso</string>
+    <string name="Test_Activity_demo_test_name">Demo</string>
+    <string name="ResultActivity_take_the_test">Fai il Test</string>
+    <string name="Test_header_coming_soon">Prossimamente</string>
+    <string name="Dialog_instructions_title">Istruzioni</string>
+    <string name="TestActivity_i_m_ready">Sono Pronto</string>
+    <string name="TestActivity_repeat">Ripeti</string>
+    <string name="TestActivity_answer">Rispondi</string>
+    <string name="TestActivity_bottom_sheet_header">Quale emozione hai visto?</string>
+    <string name="Dialog_exit_test_title">Sei sicuro di voler abbandonare il test?</string>
+    <string name="Dialog_exit_test_message">Ogni progresso fatto sino ad ora sarà perso e non sarà considerato ai fini della classifica.</string>
+    <string name="Test_Activity_take_test">Fai il Test</string>
+    <string name="Ranking_take_full_test">Fai il test completo per entrare nella classifica generale</string>
+    <string name="Ranking_registration_text">Scegli un nome per la classifica</string>
+    <string name="Ranking_registration_enter_a_user_name">Inserisci un nome utente</string>
+    <string name="Result_real_life_score">Risultato in condizioni reali</string>
+    <string name="ResultActivity_your_stats">Statistica</string>
+    <string name="ResultActivity_correct_answers">Risposta Esatta</string>
+    <string name="ResultActivity_correct_without_repetition">Risposte corrette senza ripetizioni</string>
+    <string name="ResultActivity_replays">Ripeti</string>
+    <string name="ResultActivity_empty_result">Non ci sono ancora risultati. Fai il test per vedere la tua classifica ed i tuoi trofei!</string>
+    <string name="ResultActivity_buy_now">Acqista il test completo per sbloccare tutti I trofei e per partecipare alla classifica generale.</string>
+    <string name="Dialog_instructions_header">Quando sei pronto, le espressioni facciali appariranno per qualche frazione di secondo nello schermo:</string>
+    <string name="Dialog_instructions_identify">Identifica una delle 7 emozioni universali</string>
+    <string name="Dialog_instructions_repeat">Puoi ripetere sino a 5 volte per ogni viso</string>
+    <string name="Dialog_instructions_your_ranking">Il tuo risultato depende dal numero di</string>
+    <string name="Dialog_instructions_the_right_answer">risposte esattet</string>
+    <string name="Dialog_instructions_repeats">ripetizioni</string>
+    <string name="More_about">
+        &lt;h1>A Prososito di EQally&lt;/h1>
+        &lt;p>Siamo gli esperti che mirano a riunire scienza comportamentale, tecnologia e divertimento. EQally è il punto di partenza per aiutare le persone ad espandersi e masterizzare gli strumenti di comunicazione che la Natura e l\'evoluzione ci hanno fornito.&lt;/p>
+        &lt;p>In un Mondo traboccante di informazioni inaffidabili, garantiamo che tutto ciò che offriamo è basato su ricerche scientifiche comprovate nel tempo.&lt;/p>
+        &lt;p>Il nostro obiettivo è rendere la scienza comprensibile, facile da usare attraverso la tecnologia e sperimentare un apprendimento gioioso. Miriamo a rendere questa conoscenza del comportamento disponibile a livello globale attraverso i nostri strumenti perché il linguaggio delle nostre espressioni emotive è universale.&lt;/p>
+        &lt;p>EQally aiuta chiunque a sviluppare la consapevolezza emotiva nelle conversazioni e la capacità di entrare nella prospettiva di un\'altra persona e imparare da esse.&lt;/p>
+    </string>
+
+    <string-array name="demo_test_description">
+        <item>13 Immagini campione</item>
+        <item>7 Emozioni Universali</item>
+    </string-array>
+
+    <string-array name="full_test_description">
+        <item>240 Immagini</item>
+        <item>20 Quesiti</item>
+        <item>7 Emozioni Universali</item>
+        <item>Classifica</item>
+        <item>Trofei</item>
+    </string-array>
+
+    <string-array name="Emotion_anger_cards">
+        <item>Sopracciglia tirate giù e ravvicinate</item>
+        <item>Palpebre superiori tirate su, palpebre inferiori serrate e tirate su</item>
+        <item>Margine delle labbra tirato dentro, a volte labbra serrate</item>
+        <item>Mento sporgente o spinta</item>
+    </string-array>
+
+    <string-array name="Emotion_disgust_cards">
+        <item>Sopracciglia abbassate</item>
+        <item>Naso corrugato</item>
+        <item>Labbro superiore tirato su</item>
+        <item>Labbro inferiore sciolto</item>
+    </string-array>
+
+    <string-array name="Emotion_contempt_cards">
+        <item>Angolo del labbro tirato su e verso la parte posteriore (espressione solo unilaterale)</item>
+        <item>Occhi neutrali</item>
+    </string-array>
+
+
+    <string-array name="Emotion_fear_cards">
+        <item>Sopracciglia alzate e ravvicinate</item>
+        <item>Palpebre sollevate</item>
+        <item>Bocca allungata lateralmente</item>
+    </string-array>
+
+    <string-array name="Emotion_sadness_cards">
+        <item>Angolo interno delle sopracciglia sollevate</item>
+        <item>Palpebre allentate</item>
+        <item>Angoli delle labbra tirati verso il basso</item>
+    </string-array>
+
+    <string-array name="Emotion_surprise_cards">
+        <item>Intero sopracciglio alzato</item>
+        <item>Palpebre sollevate</item>
+        <item>La bocca si apre</item>
+    </string-array>
+
+
+    <string-array name="Emotion_happiness_cards">
+        <item>Le palpebre esterne si serrano</item>
+        <item>Le guance sono sollevate</item>
+        <item>Gli angoli delle labbra si sollevarono verso le tempie</item>
+    </string-array>
+    <string name="buy_now">Acquista Ora</string>
+</resources>
